@@ -1,16 +1,18 @@
-<!-- TOP BANNER (Animated Gradient Waves) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,22&height=220&section=header&text=Hi%20there,%20I'm%20Talha%20Nizam&fontSize=38&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20%26%20CMS%20Developer%20%7C%20Web%20Architect&descSize=18&descAlignY=62" width="100%"/>
+  <!-- Local Animated Banner (100% Reliable, Served by GitHub CDN) -->
+  <img src="https://raw.githubusercontent.com/talhanizam-cms/talhanizam-cms/main/banner.svg" width="100%" alt="Talha Nizam Banner" />
 
-  <!-- TYPING SVG ANIMATION -->
+  <br/><br/>
+
+  <!-- Smooth Single-Line Typewriter Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=620&height=75&lines=Full%20Stack%20%26%20CMS%20Developer%3BCrafting%20Fast%2C%20Modern%20%26%20Scalable%20Web%20Apps%3BWordPress%2C%20Shopify%2C%20React%20%26%20Next.js%20Specialist%3BOpen%20Source%20Enthusiast%20%26%20Tech%20Explorer%3B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=620&height=45&lines=Full+Stack+%26+CMS+Developer;Crafting+Fast%2C+Modern+%26+Scalable+Web+Apps;WordPress%2C+Shopify%2C+React+%26+Next.js+Specialist;Open+Source+Enthusiast+%26+Tech+Explorer;" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- PROFILE VIEWS COUNTER -->
+<!-- PROFILE VIEWS BADGE -->
 <p align="center">
   <a href="https://github.com/talhanizam-cms">
     <img src="https://komarev.com/ghpvc/?username=talhanizam-cms&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
@@ -78,14 +80,14 @@ const talhaNizam = {
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Readme Stats -->
+  <!-- GitHub Readme Stats (Fixed without include_all_commits) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=talhanizam-cms&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="Talha's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=talhanizam-cms&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="175" alt="Talha's GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <!-- Top Languages -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhanizam-cms&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Talha's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhanizam-cms&layout=compact&theme=tokyonight&hide_border=true&locale=en" height="175" alt="Talha's Top Languages" />
   </a>
 </div>
 
@@ -96,8 +98,3 @@ const talhaNizam = {
 <p align="center">
   <img src="https://raw.githubusercontent.com/talhanizam-cms/talhanizam-cms/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,11,1&height=100&section=footer" width="100%"/>
-</div>
